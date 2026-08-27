@@ -1,0 +1,6 @@
+{
+  "name": "CyberStrike Arena",
+  "description": "Multiplayer live action top-down shooter with real-time PvP, WhatsApp challenge lobbies & room code sharing, bot survival, custom arsenal, and dual-stick combat.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
